@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Novela by Victor`,
+    name: `Victor Tokaito`,
+    siteUrl: `blog.victortokaito.com`,
+    description: `Welcome to Novela, the simplest way to digitally catch up with Victor Tokaito.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to Novela.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/victortokaito`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/victortokaito`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/victortokaito`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/victortokaito/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/victortokaito`,
       },
     ],
   },
