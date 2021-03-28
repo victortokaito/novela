@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Novela by Victor`,
     name: `Victor Tokaito`,
-    siteUrl: `blog.victortokaito.com`,
+    siteUrl: `www.blog.victortokaito.com`,
     description: `Welcome to Novela, the simplest way to digitally catch up with Victor Tokaito.`,
     hero: {
       heading: `Welcome to Novela.`,
