@@ -1,12 +1,13 @@
 ---
 title: My first post using Novela by Narative
-author: Dennis Brotzky
+author: Victor Tokaito
 date: 2019-04-30
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: With the growing community interest in 500words, we hope to create more resources that make it easier for anyone to gain the benefits of this incredible tool.
+secret: true
+<!-- slug: your-own-slug -->
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
 
@@ -76,7 +77,23 @@ Some text to show that the reference links can follow later.
   <img
     src="./images/article-image-2.jpg"
     title="Logo Title Text 1"
-    alt="Alt text"
+    alt="Alt text: display image within the same column size as the article's text."
+  />
+</div>
+
+<div className="Image_Medium">
+  <img
+    src="./images/article-image-3.jpg"
+    title="Medium size image"
+    alt="This is a medium size image--wider than small."
+  />
+</div>
+
+<div className="Image_Large">
+  <img
+    src=""
+    title=""
+    alt="This is a full-screen image."
   />
 </div>
 
