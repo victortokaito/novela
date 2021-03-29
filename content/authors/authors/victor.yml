@@ -1,7 +1,5 @@
-name: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+name: Victor Tokaito
+  Product designer previously at Creative Commons. @victortokaito
 avatar: ./avatars/victor.jpg
 social:
   - url: https://unsplash.com
@@ -9,3 +7,4 @@ social:
   - url: https://github.com
   - url: https://github.com
   - url: https://github.com
+featured: true
