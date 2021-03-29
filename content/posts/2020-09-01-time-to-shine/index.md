@@ -1,10 +1,10 @@
 ---
-title: 2
+title: My second post
 author: Victor Tokaito
 date: 2020-10-10
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in 500words, we hope to create more resources that make it easier for anyone to gain the benefits of this incredible tool.
-secret: true
+<!-- secret: true -->
 <!-- slug: your-own-slug -->
 ---
 
