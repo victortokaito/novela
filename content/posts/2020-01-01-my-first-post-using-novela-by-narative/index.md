@@ -1,11 +1,10 @@
 ---
-title: My first post using Novela by Narative
+title: My first post
 author: Victor Tokaito
 date: 2019-04-30
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in 500words, we hope to create more resources that make it easier for anyone to gain the benefits of this incredible tool.
 
-<!-- slug: your-own-slug -->
 ---
 
 

@@ -2,11 +2,15 @@
 title: My second post
 author: Victor Tokaito
 date: 2020-10-10
-hero: ./images/Asset 1 copy.jpg
+hero: ./images/Asset-1-copy.jpg
 excerpt: With the growing community interest in 500words, we hope to create more resources that make it easier for anyone to gain the benefits of this incredible tool.
 <!-- secret: true -->
 <!-- slug: your-own-slug -->
 ---
+
+
+### A lot of people think writing is a big process. This is inherently debilitating. Writing doesn't have to require tons of planning, especially when you're at the beginning. The trick is to just get started. And let the words pour out like a waterfall.
+
 <!--
 # How to get started
 
