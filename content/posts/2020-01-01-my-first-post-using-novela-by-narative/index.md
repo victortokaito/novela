@@ -4,7 +4,7 @@ author: Victor Tokaito
 date: 2019-04-30
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in 500words, we hope to create more resources that make it easier for anyone to gain the benefits of this incredible tool.
-secret: true
+
 <!-- slug: your-own-slug -->
 ---
 
