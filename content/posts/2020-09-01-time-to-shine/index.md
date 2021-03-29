@@ -12,7 +12,7 @@ excerpt: With the growing community interest in 500words, we hope to create more
 
 ## Rule 1: Just get started
 
-### A lot of people think writing is abig process. This is inherently debilititating. Writing doesn't have to require tons of planning, especially when you're at the beginning. The trick is to just get started. And let the words pour out like a waterfall.
+### A lot of people think writing is a big process. This is inherently debilitating. Writing doesn't have to require tons of planning, especially when you're at the beginning. The trick is to just get started. And let the words pour out like a waterfall.
 
 #### Writers aren't born standing up.
 
