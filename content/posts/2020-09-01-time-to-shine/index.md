@@ -7,7 +7,7 @@ excerpt: With the growing community interest in 500words, we hope to create more
 <!-- secret: true -->
 <!-- slug: your-own-slug -->
 ---
-
+<!--
 # How to get started
 
 ## Rule 1: Just get started
@@ -18,4 +18,4 @@ excerpt: With the growing community interest in 500words, we hope to create more
 
 ##### But they are born with typewriters
 
-###### Metaphorically. Just get clickin' and then you'll be clackin'!
+###### Metaphorically. Just get clickin' and then you'll be clackin'! -->

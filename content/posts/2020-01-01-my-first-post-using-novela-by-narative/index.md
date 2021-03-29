@@ -8,7 +8,6 @@ secret: true
 <!-- slug: your-own-slug -->
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
 
