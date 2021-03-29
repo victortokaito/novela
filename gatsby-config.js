@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `Welcome to Novela, the simplest way to digitally catch up with Victor Tokaito.`,
     hero: {
-      heading: `Welcome to my pocket of the internet.`,
+      heading: `Welcome to Novela.`,
       maxWidth: 652,
     },
     social: [
@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/average-gatsby`,
+        url: `https://dribbble.com/victortokaito`,
       },
     ],
   },
