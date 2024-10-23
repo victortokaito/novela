@@ -24,7 +24,7 @@ Novela is built by the team at [Narative](https://www.narative.co), and built fo
 
 # Using Gatsby Starter Novela
 
-This guide will take you through setting up Novela with Gatsby Starter Novela.
+Setting up Novela with Gatsby Starter Novela.
 
 ### Step 1: Starter installation
 
